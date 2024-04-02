@@ -8,7 +8,7 @@
 
 <!----------------------------------- About Section ------------------------------------>
 
-<h3 align="center">A Full Stack Web Developer  who focuses on writing clean and efficient code.</h3>
+<h3 align="center">A Full Stack Software Developer  who focuses on writing clean and efficient code.</h3>
 <!-- <br>📫 How to reach me eehsanullah232@gmail.com<br> -->
 
 
