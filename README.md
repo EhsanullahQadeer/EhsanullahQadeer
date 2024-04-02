@@ -1,4 +1,4 @@
-[<!----------------------------------- Banner Section ------------------------------------>
+<!----------------------------------- Banner Section ------------------------------------>
 
 [![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)](https://alih6051.github.io)
 
@@ -13,12 +13,11 @@
 <!----------------------------------- About Section ------------------------------------>
 
 <h3 align="center">A Full Stack Web Developer  who focuses on writing clean and efficient code.</h3>
-<br>📫 How to reach me eehsanullah232@gmail.com<br>
+<!-- <br>📫 How to reach me eehsanullah232@gmail.com<br> -->
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<p><img  align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="45%" /></p>
 
 <h2 align="center">🚀 Languages and Tools:</h2>
 <br/>
@@ -94,4 +93,3 @@
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-](https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif)
