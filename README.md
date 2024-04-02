@@ -67,27 +67,6 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<h2 align="center">📊 My Github Stats</h2>
-   <br/>   
-    <p align="center">      
-  <a href="https://github.com/alih6051/github-readme-stats"><img alt="alih6051 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alih6051&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-      </p>      
-     <br/>
-   <p align="center">
-    <a href="https://github.com/alih6051/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="masum streak" src="https://github-readme-streak-stats.herokuapp.com/?user=alih6051&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
-    </a>
-</p>
-
-  <br/>
-  <br/>
-     <p align="center">                                                                                                 
-    <a href="https://github.com/alih6051/github-readme-stats"><img alt="masum Github Stats" src="https://github-readme-stats.vercel.app/api?username=alih6051&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="masum" /></a>
-    </p>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <br/>
 
 ### ✍️ Random Dev Quote
